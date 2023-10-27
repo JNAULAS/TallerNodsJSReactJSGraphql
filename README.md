@@ -1,2 +1,1 @@
 # TallerNodsJSReactJSGraphql
-Tarea
